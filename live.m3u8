@@ -44,3 +44,376 @@ http://bit.ly/Live-tvninjaxd-xg-17?stream.m3u8
 
 #EXTINF:-1, tvg-logo="http://i.imgur.com/ljImmdc.jpg?Tvninjaxd" group-title="Canales Peruanos", MonterricoTV - HD
 http://bit.ly/Live-tvninjaxd-xg-18?stream.m3u8
+
+#EXTINF:0 type="stream" channelId="50" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1200px-Animal_Planet_logo.svg.png", Animal Planet
+http://z1.iptvmanagerpro.com/stream_28_de38611eaa8c7762cbbc063ea5224e5b_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="298" tvg-logo="https://www.rapidtvnews.com/images/canalsony.jpg", Canal Sony
+http://z1.iptvmanagerpro.com/stream_11_ecba07918c0206469943ac992b3f6571_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="40" tvg-logo="http://www.cartoonnetwork.com/static/images/global/ogLogo.png", Cartoon Network
+http://z1.iptvmanagerpro.com/stream_16_c376807ac7f6ca0730cea659a96f7101_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="19" tvg-logo="https://imgur.com/tfJIh70.png", Disney Channel
+http://z1.iptvmanagerpro.com/stream_20_06f9fe7c469d8820ec30eaf211cc818f_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="1198" tvg-logo="https://imgur.com/eGBe5vi.png", Disney XD
+http://z1.iptvmanagerpro.com/stream_30_3d4790f5b63d3bc1bbaa054ceb6d073b_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="2639" tvg-logo="http://i.imgur.com/GgSSmqL.jpg", Tooncast
+http://z1.iptvmanagerpro.com/stream_31_85f0690b170755b9592f10fca8a21b12_1513991435.m3u8
+#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/a49b/f/2016/215/e/9/nickelodeon_hd_new_logo_concept_by_misterguydom15-dacgqz0.png", NICKELODEON HD
+http://z1.iptvmanagerpro.com/stream_80_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="64" tvg-logo="https://4.bp.blogspot.com/-WlC9MZp46GY/V-_KbO8_5pI/AAAAAAAABBA/FOkYBvPpL_QCwpFekHLf-6ITCirALyrCwCLcB/s1600/cinecanal.png", Cinecanal
+http://z1.iptvmanagerpro.com/stream_119_cf917e4fe259939bb4c3e684df8a6847_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="1326" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png", Cinemax
+http://z1.iptvmanagerpro.com/stream_115_63151dd409fced7497f216bc9b528cd1_1513991435.m3u8
+#EXTINF:-1 tvg-logo="", SYFY
+http://z1.iptvmanagerpro.com/stream_42_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
+#EXTINF:-1 tvg-logo="", A&E MUNDO
+http://z1.iptvmanagerpro.com/stream_48_b27e5aad98994454091d2c228078037b_1513991435.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WRwHveXhgMA/maxresdefault.jpg", HISTORY
+http://z1.iptvmanagerpro.com/stream_83_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="2620" tvg-logo="http://strevista.com/wp-content/uploads/2017/03/hh_placeholder.jpg", Home & Health
+http://z1.iptvmanagerpro.com/stream_66_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="57" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0050418.png", Discovery Channel
+http://z1.iptvmanagerpro.com/stream_19_7a712322f7803cd5e00f1a868395651b_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="67" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/TLC-HD-Logo-630.png", TLC
+http://z1.iptvmanagerpro.com/stream_105_a993eccbc21029fac970f7aad36006e1_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="2661" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Filmzone2016.png", Film Zone
+hls://http://z1.iptvmanagerpro.com/stream_79_4c7f879c41bfd2ce60f9a7f32a02e7f1_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="2481" tvg-logo="https://imgur.com/ILvGJRE.png", Fox Action [HD]
+http://z1.iptvmanagerpro.com/stream_88_3a4b03ca3009a57092571683e413e554_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/186azze.png", Fox Series
+http://z1.iptvmanagerpro.com/stream_89_0bd281acfe5880107cb0d06f2b42fb60_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://forounivers.com/index.php?/gallery/image/320-fox-cinema/&do=download", Fox Cinema
+http://z1.iptvmanagerpro.com/stream_53_cf407e0183d4425e8f2ab11c3ee7c72e_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="137" tvg-logo="http://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Classics-300x98-167538583.png", Fox Classics
+http://z1.iptvmanagerpro.com/stream_52_f0feecf5417aebcb54b3ce279f3a755b_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="178" tvg-logo="https://imgur.com/V7JpoFu.png", Fox Life
+http://z1.iptvmanagerpro.com/stream_44_432b485287f452b5a91d0c1b2f99d1d6_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="1862" tvg-logo="http://singteltv.com.sg/_channels/pic_ch414.jpg", Fox Movies
+http://z1.iptvmanagerpro.com/stream_46_252c119ff7ab774aeac8777f4de95fca_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="1303" tvg-logo="https://www.2017auditions.com/wp-content/uploads/2016/11/fx-casting-call.jpg", FX
+http://z1.iptvmanagerpro.com/stream_29_e3eb6de10f0aef6af5a98f7165338c6f_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="1052" tvg-logo="http://www.tntla.com/billboard/images/logo_tnt_cream.png", TNT
+http://z1.iptvmanagerpro.com/stream_15_ecba07918c0206469943ac992b3f6571_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="187" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png", Universal Channel
+http://z1.iptvmanagerpro.com/stream_78_4dea19ed35c42edd427676809179f92f_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="333" tvg-logo="https://imgur.com/QaUMABB.png", Golden
+http://z1.iptvmanagerpro.com/stream_54_7da70a51257717131cbb573326ed8fed_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="3228" tvg-logo="https://imgur.com/NWgE276.png", TBS [Opt-2]
+http://z1.iptvmanagerpro.com/stream_60_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://imgur.com/qEC7MCQ.png", WB TV HD
+http://z1.iptvmanagerpro.com/stream_76_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
+#EXTINF:-1,ID
+http://z1.iptvmanagerpro.com/stream_65_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
+#EXTINF:-1,AXN
+http://5g.iptvmanagerpro.com/stream_74_45dc3ada3e9571f7f2c5e35f8f134e7a_1513484172.m3u8
+#EXTINF:-1,A&E
+http://z1.iptvmanagerpro.com/stream_48_b27e5aad98994454091d2c228078037b_1513991435.m3u8
+#EXTINF:-1,ADN 40
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,SPACE HD
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1,SPACE HD
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+#EXTINF:-1,TNT HD
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,TNT HD
+http://z1.iptvmanagerpro.com/stream_15_ecba07918c0206469943ac992b3f6571_1513991435.m3u8
+#EXTINF:-1,TNT SERIES
+http://z1.iptvmanagerpro.com/stream_39_723bb4fe1e7aacd8a848401df5a1f149_1513991435.m3u8
+#EXTINF:-1,CINEMAX
+http://z1.iptvmanagerpro.com/stream_115_63151dd409fced7497f216bc9b528cd1_1513991435.m3u8
+#EXTINF:-1,CANAL SONY
+http://z1.iptvmanagerpro.com/stream_11_ecba07918c0206469943ac992b3f6571_1513991435.m3u8
+#EXTINF:-1,CINE CANAL
+http://z1.iptvmanagerpro.com/stream_119_cf917e4fe259939bb4c3e684df8a6847_1513991435.m3u8
+#EXTINF:-1,AMC
+http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,TBS
+http://z1.iptvmanagerpro.com/stream_60_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
+#EXTINF:-1,THE FILMZONE
+http://z1.iptvmanagerpro.com/stream_79_4c7f879c41bfd2ce60f9a7f32a02e7f1_1513991435.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://z1.iptvmanagerpro.com/stream_28_de38611eaa8c7762cbbc063ea5224e5b_1513991435.m3u8
+#EXTINF:-1,DISCOVERY
+http://z1.iptvmanagerpro.com/stream_19_7a712322f7803cd5e00f1a868395651b_1513991435.m3u8
+#EXTINF:-1,H&H
+http://z1.iptvmanagerpro.com/stream_66_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
+#EXTINF:-1,HISTORY
+http://z1.iptvmanagerpro.com/stream_83_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
+#EXTINF:-1,NAT GEO
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(05)/index.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://5g.iptvmanagerpro.com/stream_82_c80270e3397ede59e8d7743e20c27faf_1513489035.m3u8
+#EXTINF:-1,TLC
+http://z1.iptvmanagerpro.com/stream_105_a993eccbc21029fac970f7aad36006e1_1513991435.m3u8
+#EXTINF:-1,FOX LATINOAMERICA
+http://5g.iptvmanagerpro.com/stream_98_4742fb40021635f666c3cdad0a814994_1513214025.m3u8
+#EXTINF:-1,FOX LATINOAMERICA
+http://z1.iptvmanagerpro.com/stream_8_e1e22b4b3b9feefa49e0f1ac90060637_1513991435.m3u8
+#EXTINF:-1,FOX SERIES
+http://z1.iptvmanagerpro.com/stream_89_0bd281acfe5880107cb0d06f2b42fb60_1513991435.m3u8
+#EXTINF:-1,FOX MOVIES
+http://z1.iptvmanagerpro.com/stream_46_252c119ff7ab774aeac8777f4de95fca_1513991435.m3u8
+#EXTINF:-1,FOX ACTION
+http://z1.iptvmanagerpro.com/stream_88_3a4b03ca3009a57092571683e413e554_1513991435.m3u8
+#EXTINF:-1,FOX CINEMA
+http://z1.iptvmanagerpro.com/stream_53_cf407e0183d4425e8f2ab11c3ee7c72e_1513991435.m3u8
+#EXTINF:-1,FOX CLASSISC
+http://z1.iptvmanagerpro.com/stream_52_f0feecf5417aebcb54b3ce279f3a755b_1513991435.m3u8
+#EXTINF:-1,WARNER CHANNEL
+http://z1.iptvmanagerpro.com/stream_76_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://z1.iptvmanagerpro.com/stream_78_4dea19ed35c42edd427676809179f92f_1513991435.m3u8
+#EXTINF:-1,GOLDEN PLUS
+http://z1.iptvmanagerpro.com/stream_54_7da70a51257717131cbb573326ed8fed_1513991435.m3u8
+#EXTINF:-1,FOX LIFE
+http://z1.iptvmanagerpro.com/stream_44_432b485287f452b5a91d0c1b2f99d1d6_1513991435.m3u8
+#EXTINF:-1,FX
+http://z1.iptvmanagerpro.com/stream_29_e3eb6de10f0aef6af5a98f7165338c6f_1513991435.m3u8
+#EXTINF:-1,GOLDEN PLUS
+http://z1.iptvmanagerpro.com/stream_54_7da70a51257717131cbb573326ed8fed_1513991435.m3u8
+#EXTINF:-1,DEPELICULA PLUS
+http://z1.iptvmanagerpro.com/stream_85_37d597d3b023bad0e8c26e5238249e16_1513991435.m3u8
+#EXTINF:-1,SYFY
+http://z1.iptvmanagerpro.com/stream_42_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
+#EXTINF:-1,TELENOVELAS
+http://z1.iptvmanagerpro.com/stream_9_c5335fd8de580606c4d45291b1d51d82_1513991435.m3u8
+#EXTINF:-1,TRUTV
+http://z1.iptvmanagerpro.com/stream_73_d0d50ae98f5bd7266991a23c76761de1_1513991435.m3u8
+#EXTINF:-1,UNICABLE
+http://z1.iptvmanagerpro.com/stream_43_217410b59add0e552e574b44f06d4d95_1513991435.m3u8
+#EXTINF:-1,MEXICO:AZTECA A+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,LATINOS:TV UNO
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,Espa&ntilde;a:LA SEXTA HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,Espa&ntilde;a:MEGA ESPANA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,FOX SPORT
+http://5g.iptvmanagerpro.com/stream_102_d0f8ecbae19153181e4c89ecd48244d7_1513214025.m3u8
+#EXTINF:-1,FOX SPORT 2
+http://5g.iptvmanagerpro.com/stream_77_764d9424af1ae308c12ac1813427c9f4_1513214025.m3u8
+#EXTINF:-1,ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,ESPN 2
+http://5g.iptvmanagerpro.com/stream_35_57d28d7bd35a8da64778cd086d49137f_1513214025.m3u8
+#EXTINF:-1,ESPN 3
+http://5g.iptvmanagerpro.com/stream_36_a14a3aae769585beb7e7cf25b994becc_1513214025.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png"  group-title="Deportes", CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+ 
+ EXTINF:-1,BOOMERANG
+http://z1.iptvmanagerpro.com/stream_51_3b283f70f20324dd6c3bba4cffca988e_1513991435.m3u8
+#EXTINF:-1,CARTOON NETWORD
+http://z1.iptvmanagerpro.com/stream_16_c376807ac7f6ca0730cea659a96f7101_1513991435.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://z1.iptvmanagerpro.com/stream_22_f501c7d0aae59dc239f48e17d0175175_1513991435.m3u8
+#EXTINF:-1,INFANTILES:DISNEY JR
+http://z1.iptvmanagerpro.com/stream_25_b12b02cc0f394412cc4e71e9d7503df3_1513991435.m3u8
+#EXTINF:-1,INFANTILES:DISNEY JR
+http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://z1.iptvmanagerpro.com/stream_20_06f9fe7c469d8820ec30eaf211cc818f_1513991435.m3u8
+#EXTINF:-1,DISNEY XD
+http://z1.iptvmanagerpro.com/stream_30_3d4790f5b63d3bc1bbaa054ceb6d073b_1513991435.m3u8
+#EXTINF:-1,NICK
+http://z1.iptvmanagerpro.com/stream_80_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
+#EXTINF:-1,TOONCAST
+http://z1.iptvmanagerpro.com/stream_31_85f0690b170755b9592f10fca8a21b12_1513991435.m3u8
+#EXTINF:-1,INFANTILES:LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 tvg-logo="https://k33.kn3.net/taringa/4/5/D/A/A/A/Zrogs/233.jpg" ,LOS MEJORES DIBUJOS
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-0,(ES) A&E
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14588.ts  
+#EXTINF:-0,(ES) AXN HD
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14578.ts
+#EXTINF:-0,ESP TNT
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/10268.ts
+#EXTINF:-0, ESP TCM
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/10271.ts  
+#EXTINF:-0,(ES) AXN HD
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14580.ts
+#EXTINF:-0,Canal Cocina
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14569.ts
+#EXTINF:-0,(ES) Calle 13 HD
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14570.ts
+#EXTINF:-0,Caza Y Pesca
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14564.ts
+#EXTINF:-0,(ES) Classica  
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14561.ts
+#EXTINF:-0,(ES) Comedy Central
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14560.ts
+#EXTINF:-0,Disney Xd  
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14549.ts
+#EXTINF:-0,(ES) Energy
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14545.ts
+#EXTINF:-0,(ES) Eurosport 1
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14544.ts
+#EXTINF:-0,ES) Eurosport 1 HD  
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14543.ts
+#EXTINF:-0,ES) Eurosport 2
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14542.ts
+#EXTINF:-0,(ES) FDF
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14541.ts
+#EXTINF:-0,(ES) FOX
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14540.ts
+#EXTINF:-0,(ES) FOX HD  \
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14539.ts
+#EXTINF:-0,) FOX Life HD  
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14537.ts
+#EXTINF:-0,(ES) Gol
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14536.ts
+#EXTINF:-0, La Sexta  
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14528.ts
+#EXTINF:-0,Movistar Comedia
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14522.ts
+#EXTINF:-0,Movistar Comedia HD
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14521.ts
+#EXTINF:-0,Movistar Dep 2 HD  
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14518.ts
+#EXTINF:-0,ES) Movistar F.tbol
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14514.ts
+#EXTINF:-0,(ES) Movistar MotoGP HD
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14507.ts
+#EXTINF:-0,(ES) Movistar Series
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14506.ts  
+#EXTINF:-0,(ES) Nat Geo Wild  
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14496.ts
+#EXTINF:-0,ES) TCM HD  
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14484.ts
+#EXTINF:-0,Telecinco HD
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14482.ts
+#EXTINF:-0,(ES) Ten
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14480.ts
+#EXTINF:-0,ES) TNT HD  
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14478.ts
+#EXTINF:-0,(ES) Viajar HD  
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14476.ts
+#EXTINF:-0, ESP AXN.WHITE  
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/10330.ts
+#EXTINF:-1,ES_Antena_3
+http://s1.iptvforver.com:8000/live/levent/levent/6908.ts
+#EXTINF:-1,ES_AXN_White_HD
+http://s1.iptvforver.com:8000/live/levent/levent/6864.ts
+#EXTINF:-1,ES_CALLE_13_FullHD
+http://s1.iptvforver.com:8000/live/levent/levent/6878.ts
+#EXTINF:-1,ES_CANAL_GOL
+http://s1.iptvforver.com:8000/live/levent/levent/6885.ts
+#EXTINF:-1,ES_CANAL_ORBE21
+http://s1.iptvforver.com:8000/live/levent/levent/6889.ts
+#EXTINF:-1,ES_CANAL_PANDA
+http://s1.iptvforver.com:8000/live/levent/levent/6888.ts
+#EXTINF:-1,ES_FOX_HD
+http://s1.iptvforver.com:8000/live/levent/levent/6884.ts
+#EXTINF:-1,ES_FOX_NEWS
+http://s1.iptvforver.com:8000/live/levent/levent/6882.ts
+#EXTINF:-1,ES_Hollywood_FullHD
+http://s1.iptvforver.com:8000/live/levent/levent/6876.ts
+#EXTINF:-1,ES_Movistar_Cine_Ñ
+http://s1.iptvforver.com:8000/live/levent/levent/6894.ts
+#EXTINF:-1,ES_Movistar_DEPORTES_2
+http://s1.iptvforver.com:8000/live/levent/levent/6896.ts
+#EXTINF:-1,ES: Antena 3 FullHD
+http://s1.iptvforver.com:8000/live/levent/levent/6907.ts
+#EXTINF:-1,ES: AXN HD
+http://s1.iptvforver.com:8000/live/levent/levent/6866.ts
+#EXTINF:-1,ES: AXN White FullHD
+http://s1.iptvforver.com:8000/live/levent/levent/6863.ts
+#EXTINF:-1,ES: BARCA TV HD
+http://s1.iptvforver.com:8000/live/levent/levent/6857.ts
+#EXTINF:-1,ES: Bein LaLiga FullHD
+http://s1.iptvforver.com:8000/live/levent/levent/6859.ts
+#EXTINF:-1,ES: Bein LaLiga HD
+http://s1.iptvforver.com:8000/live/levent/levent/6860.ts
+#EXTINF:-1,ES: Bein Sports España FullHD
+http://s1.iptvforver.com:8000/live/levent/levent/6861.ts
+#EXTINF:-1,ES: Bein Sports España HD
+http://s1.iptvforver.com:8000/live/levent/levent/6862.ts
+#EXTINF:-1,ES: CALLE 13 HD
+http://s1.iptvforver.com:8000/live/levent/levent/6879.ts
+#EXTINF:-1,ES: Canal COCINA
+http://s1.iptvforver.com:8000/live/levent/levent/6898.ts
+#EXTINF:-1,ES: Canal Estrenos
+http://s1.iptvforver.com:8000/live/levent/levent/6891.ts
+#EXTINF:-1,ES: Canal Toros
+http://s1.iptvforver.com:8000/live/levent/levent/6887.ts
+#EXTINF:-1,ES: CANAL_LIGA
+http://s1.iptvforver.com:8000/live/levent/levent/6886.ts
+#EXTINF:-1,ES: Comedy Central FullHD
+http://s1.iptvforver.com:8000/live/levent/levent/6880.ts
+#EXTINF:-1,ES: Comedy Central HD
+http://s1.iptvforver.com:8000/live/levent/levent/6881.ts
+#EXTINF:-1,ES: Cuatro FullHD
+http://s1.iptvforver.com:8000/live/levent/levent/6905.ts
+#EXTINF:-1,ES: CUATRO_HD
+http://s1.iptvforver.com:8000/live/levent/levent/6906.ts
+#EXTINF:-1,ES: Factoria de Ficcion
+http://s1.iptvforver.com:8000/live/levent/levent/6854.ts
+#EXTINF:-1,ES: FOX LIFE HD
+http://s1.iptvforver.com:8000/live/levent/levent/6883.ts
+#EXTINF:-1,ES: Garage TV
+http://s1.iptvforver.com:8000/live/levent/levent/6855.ts
+#EXTINF:-1,ES: Hollywood HD
+http://s1.iptvforver.com:8000/live/levent/levent/6877.ts
+#EXTINF:-1,ES: La 1 FullHD
+http://s1.iptvforver.com:8000/live/levent/levent/6910.ts
+#EXTINF:-1,ES: La Dos 2
+http://s1.iptvforver.com:8000/live/levent/levent/6909.ts
+#EXTINF:-1,ES: LA_SEXTA_HD
+http://s1.iptvforver.com:8000/live/levent/levent/6902.ts
+#EXTINF:-1,ES: La_una _1_HD
+http://s1.iptvforver.com:8000/live/levent/levent/6911.ts
+#EXTINF:-1,ES: MOVISTAR DCINE HD
+http://s1.iptvforver.com:8000/live/levent/levent/6899.ts
+#EXTINF:-1,ES: MOVISTAR F1 HD
+http://s1.iptvforver.com:8000/live/levent/levent/6892.ts
+#EXTINF:-1,ES: MOVISTAR MOTOGP HD
+http://s1.iptvforver.com:8000/live/levent/levent/6893.ts
+#EXTINF:-1,ES: Movistar_Deportes_1
+http://s1.iptvforver.com:8000/live/levent/levent/6895.ts
+#EXTINF:-1,ES: Movistar_Futbol
+http://s1.iptvforver.com:8000/live/levent/levent/6900.ts
+#EXTINF:-1,ES: Movistar_Golf
+http://s1.iptvforver.com:8000/live/levent/levent/6890.ts
+#EXTINF:-1,ES: MOVISTAR_SERIES_HD
+http://s1.iptvforver.com:8000/live/levent/levent/6901.ts
+#EXTINF:-1,ES: NatGeo Wild FullHD
+http://s1.iptvforver.com:8000/live/levent/levent/6867.ts
+#EXTINF:-1,ES: NatGeo Wild HD
+http://s1.iptvforver.com:8000/live/levent/levent/6868.ts
+#EXTINF:-1,ES: National Geographic FullHD
+http://s1.iptvforver.com:8000/live/levent/levent/6869.ts
+#EXTINF:-1,ES: National Geographic HD
+http://s1.iptvforver.com:8000/live/levent/levent/6870.ts
+#EXTINF:-1,ES: NEOX HD
+http://s1.iptvforver.com:8000/live/levent/levent/6853.ts
+#EXTINF:-1,ES: Nonstop People
+http://s1.iptvforver.com:8000/live/levent/levent/6850.ts
+#EXTINF:-1,ES: Odisea HD
+http://s1.iptvforver.com:8000/live/levent/levent/6871.ts
+#EXTINF:-1,ES: Paramount Channel
+http://s1.iptvforver.com:8000/live/levent/levent/6852.ts
+#EXTINF:-1,ES: Real Madrid HD
+http://s1.iptvforver.com:8000/live/levent/levent/6858.ts
+#EXTINF:-1,ES: Syfy FullHD
+http://s1.iptvforver.com:8000/live/levent/levent/6874.ts
+#EXTINF:-1,ES: Syfy HD
+http://s1.iptvforver.com:8000/live/levent/levent/6875.ts
+#EXTINF:-1,ES: TCM HD
+http://s1.iptvforver.com:8000/live/levent/levent/6856.ts
+#EXTINF:-1,ES: TELECINCO
+http://s1.iptvforver.com:8000/live/levent/levent/6904.ts
+#EXTINF:-1,ES: Telecinco FullHD
+http://s1.iptvforver.com:8000/live/levent/levent/6903.ts
+#EXTINF:-1,ES: TNT FullHD
+http://s1.iptvforver.com:8000/live/levent/levent/6872.ts
+#EXTINF:-1,ES: TNT HD
+http://s1.iptvforver.com:8000/live/levent/levent/6873.ts
+#EXTINF:-1,ES: TV3
+http://s1.iptvforver.com:8000/live/levent/levent/6851.ts
+#EXTINF:-1,ES:AXN FullHD
+http://s1.iptvforver.com:8000/live/levent/levent/6865.ts
