@@ -1,0 +1,46 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/o1YmHMk.jpg?Tvninjaxd" group-title="Canales Peruanos", CANALES PERUANOS SD - HD
+http://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/o1YmHMk.jpg?Tvninjaxd" group-title="Canales Peruanos", Latina - HD
+http://159.89.96.52/stream/WrboJlB83jZsWXmAOHhCg4pKg6vIUw2w.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/8O1a1gk.jpg?Tvninjaxd" group-title="Canales Peruanos", Gol Peru - HD
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX1%2BiwZTTBUDo76hGx%2BTu48pL%2BgwAftcLyhbjGAdpTcZhMC%2B5CRQ3kEtvkAHRQ3JmJXxKeR%2BNaV6mSg%3D%3D
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/MbcHWNj.jpg?Tvninjaxd" group-title="Canales Peruanos", America - HD
+http://95.211.186.223:8088/stream/fulltvhd2/playlist.m3u8?id=7472&wowzasessionid=3383586354&pk=28e2e92f015b6eb1e0a2dad946ea078e10cf2935601f8d4454abd5b4dbf5805f
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/h4brVqf.jpg?Tvninjaxd" group-title="Canales Peruanos", Panamericana - HD
+http://stream-01.nyc.dailymotion.com/43/dm/3/x18w5up/live-3.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/Um3FpJY.jpg?Tvninjaxd" group-title="Canales Peruanos", TvPeru 7.3 - SD
+http://bit.ly/Live-tvninjaxd-xg-6?stream.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/4UxjHSM.jpg?Tvninjaxd" group-title="Canales Peruanos", TvPeru - HD
+https://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/kqDZURE.jpg?Tvninjaxd" group-title="Canales Peruanos", ATVHD - HD
+http://bit.ly/Live-tvninjaxd-xg-9?stream.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/esSKT1T.jpg?Tvninjaxd" group-title="Canales Peruanos", ATV+ - SD
+http://bit.ly/Live-tvninjaxd-xg-11?stream.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/WZndVhM.jpg?Tvninjaxd" group-title="Canales Peruanos", RBC - SD
+http://184.154.28.210:1935/rbc-tv/rbc-tv/chunklist_w101269430.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/wOtsyJ7.jpg?Tvninjaxd" group-title="Canales Peruanos", Willax - HD
+http://bit.ly/Live-tvninjaxd-xg-13?stream.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/lx045za.jpg?Tvninjaxd" group-title="Canales Peruanos", Next TV - HD
+http://bit.ly/Live-tvninjaxd-xg-15?stream.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/yGG1gTk.jpg?Tvninjaxd" group-title="Canales Peruanos", CapitalTV - SD
+http://bit.ly/Live-tvninjaxd-xg-16?stream.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/w2d7fb8.jpg?Tvninjaxd" group-title="Canales Peruanos", Ipe - SD
+http://bit.ly/Live-tvninjaxd-xg-17?stream.m3u8
+
+#EXTINF:-1, tvg-logo="http://i.imgur.com/ljImmdc.jpg?Tvninjaxd" group-title="Canales Peruanos", MonterricoTV - HD
+http://bit.ly/Live-tvninjaxd-xg-18?stream.m3u8
