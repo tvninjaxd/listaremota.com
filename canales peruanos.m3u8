@@ -1,209 +1,61 @@
 #EXTM3U
-#EXTINF:0,CANALES PERUANOS SD - HD
-#EXTGRP:unsorted
-http://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8
-#EXTINF:0,Latina - HD
-#EXTGRP:unsorted
-http://144.76.27.16:8088/stream/fulltvhd3/playlist.m3u8?id=19630&amp;wowzasessionid=48403636&amp;pk=40e36bb7f0599f1ea0871e8a2527ad5603e5443df2114016522d0d83ec86d975
-#EXTINF:0,Gol Peru - HD
-#EXTGRP:unsorted
-http://178.162.199.131:8088/adfree/golperuenvivo/playlist.m3u8?id=2120&amp;wowzasessionid=3797589515&amp;pk=40e36bb7f0599f1ea0871e8a2527ad5603e5443df2114016522d0d83ec86d975
-#EXTINF:0,America - HD
-#EXTGRP:unsorted
-http://5.9.22.12:8088/stream/fulltvhd2/playlist.m3u8?id=19629&amp;wowzasessionid=3062360045&amp;pk=40e36bb7f0599f1ea0871e8a2527ad5603e5443df2114016522d0d83ec86d975
-#EXTINF:0,Panamericana - HD
-#EXTGRP:unsorted
-http://stream-01.nyc.dailymotion.com/43/dm/3/x18w5up/live-3.m3u8
-#EXTINF:0,TvPeru 7.3 - SD
-#EXTGRP:unsorted
-http://bit.ly/Live-tvninjaxd-xg-6?stream.m3u8
-#EXTINF:0,TvPeru - HD
-#EXTGRP:unsorted
-https://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:0,ATVHD - HD
-#EXTGRP:unsorted
-http://bit.ly/Live-tvninjaxd-xg-9?stream.m3u8
-#EXTINF:0,ATV+ - SD
-#EXTGRP:unsorted
-http://bit.ly/Live-tvninjaxd-xg-11?stream.m3u8
-#EXTINF:0,Willax - HD
-#EXTGRP:unsorted
-http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
-#EXTINF:0,CapitalTV - SD
-#EXTGRP:unsorted
-http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPWC/_definst_/live/stream1.m3u8
-#EXTINF:0,Ipe - SD
-#EXTGRP:unsorted
-https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:0,MonterricoTV - HD
-#EXTGRP:unsorted
-http://bit.ly/Live-tvninjaxd-xg-18?stream.m3u8
-#EXTINF:0,History - HD
-#EXTGRP:unsorted
-http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX1%2FQWE3FNCCcwEJoe%2FgnFTs8bSlmy9JimYs0c122u5iMJduB0VM5XJHhScFg54g9lpMylda%2BrbqGxg%3D%3D
-#EXTINF:0,Fox Sports
-#EXTGRP:unsorted
-http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX1%2FJNiGAAOYcHf1n9tFebWp1S0pgSY3YBhUP8J983bI4Y%2BAHFPwaVbx0axunLej0HcOqdy78%2FtUOqg%3D%3D
-#EXTINF:0,Cartoon Network
-#EXTGRP:unsorted
-http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX19nJuafzQHE151KoAZb4Dzp3kl2luUlbCQW5NxF1mfnfKrsSiPcy2zVZ4uLOwp9R%2FApssECq336%2BQ%3D%3D
 
-#EXTINF:0,GOL TV
-http://142.0.43.4:25461/live/televall2/televall-02/71.m3u8
-
-#EXTINF:0,DirecTV
-http://142.0.43.4:25461/live/televall2/televall-02/121.m3u8
-
-#EXTINF:0,BEIN SPORTS
-http://142.0.43.4:25461/live/televall2/televall-02/65.m3u8
-
-#EXTINF:0,FOX SPORTS
-http://142.0.43.4:25461/live/televall2/televall-02/98.m3u8
-
-#EXTINF:0,FOX SPORTS 2
-http://142.0.43.4:25461/live/televall2/televall-02/99.m3u8
-
-#EXTINF:-1,Las estrellas (canal 2)
-http://iptv.premiumtutv.com/canal_7_lasestrellascanal2.m3u8
-#EXTINF:-1,Fox
-http://iptv.premiumtutv.com/canal_8_fox.m3u8
-#EXTINF:-1,Tlnovelas
-http://iptv.premiumtutv.com/canal_9_tlnovelas.m3u8
-#EXTINF:-1,MTV
-http://iptv.premiumtutv.com/canal_10_mtv.m3u8
-#EXTINF:-1,Sony
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gz7Eb0B.jpg?tvninjaxd" group-title="Información", 06/MAR/2018 Lista Oficial
+http://bit.ly/usuario-ninja-00?stream.m3u8
  
-http://iptv.premiumtutv.com/canal_11_sony.m3u8
-#EXTINF:-1,Azteca 13
-http://iptv.premiumtutv.com/canal_12_azteca13.m3u8
-#EXTINF:-1,Azteca 7
-http://iptv.premiumtutv.com/canal_13_azteca7.m3u8
-#EXTINF:-1,Canal 5
-http://iptv.premiumtutv.com/canal_14_canal5.m3u8
-#EXTINF:-1,TNT
-http://iptv.premiumtutv.com/canal_15_tnt.m3u8
-#EXTINF:-1,Cartoon Network
-http://iptv.premiumtutv.com/canal_16_cartoonnetwork.m3u8
-#EXTINF:-1,Once TV
-http://iptv.premiumtutv.com/canal_18_oncetv.m3u8
-#EXTINF:-1,Discovery Channel
-http://iptv.premiumtutv.com/canal_19_discoverychannel.m3u8
-#EXTINF:-1,Disney Channel
-http://iptv.premiumtutv.com/canal_20_disneychannel.m3u8
-#EXTINF:-1,Nickelodeon (Nick)
-http://iptv.premiumtutv.com/canal_21_nickelodeonnick.m3u8
-#EXTINF:-1,Discovery Kids
-http://iptv.premiumtutv.com/canal_22_discoverykids.m3u8
-#EXTINF:-1,NatGeo
-http://iptv.premiumtutv.com/canal_23_natgeo.m3u8
-#EXTINF:-1,El Financiero Bloomberg
-http://iptv.premiumtutv.com/canal_24_elfinancierobloomberg.m3u8
-#EXTINF:-1,Disney Jr
-http://iptv.premiumtutv.com/canal_25_disneyjr.m3u8
-#EXTINF:-1,Multimedios Monterrey
-http://iptv.premiumtutv.com/canal_26_multimediosmonterrey.m3u8
-#EXTINF:-1,Cinecanal (W)
-http://iptv.premiumtutv.com/canal_27_cinecanalw.m3u8
-#EXTINF:-1,Animal Planet
-http://iptv.premiumtutv.com/canal_28_animalplanet.m3u8
-#EXTINF:-1,FX
-http://iptv.premiumtutv.com/canal_29_fx.m3u8
-#EXTINF:-1,Disney XD
-http://iptv.premiumtutv.com/canal_30_disneyxd.m3u8
-#EXTINF:-1,Tooncast
-http://iptv.premiumtutv.com/canal_31_tooncast.m3u8
-#EXTINF:-1,TVE
-http://iptv.premiumtutv.com/canal_32_tve.m3u8
-#EXTINF:-1,Universal Channel  
-http://iptv.premiumtutv.com/canal_33_universalchannel.m3u8
-#EXTINF:-1,Lifetime
-http://iptv.premiumtutv.com/canal_34_lifetime.m3u8
-#EXTINF:-1,ESPN 2
-http://iptv.premiumtutv.com/canal_35_espn2.m3u8
-#EXTINF:-1,ESPN 3
-http://iptv.premiumtutv.com/canal_36_espn3.m3u8
-#EXTINF:-1,Golden Edge
-http://iptv.premiumtutv.com/canal_37_goldenedge.m3u8
-#EXTINF:-1,TNT Series
-http://iptv.premiumtutv.com/canal_39_tntseries.m3u8
-#EXTINF:-1,TIIN
-http://iptv.premiumtutv.com/canal_40_tiin.m3u8
-#EXTINF:-1,Ritmoson Latino
-http://iptv.premiumtutv.com/canal_41_ritmosonlatino.m3u8
-#EXTINF:-1,Syfy
-http://iptv.premiumtutv.com/canal_42_syfy.m3u8
-#EXTINF:-1,Unicable
-http://iptv.premiumtutv.com/canal_43_unicable.m3u8
-#EXTINF:-1,Fox life
-http://iptv.premiumtutv.com/canal_44_foxlife.m3u8
-#EXTINF:-1,E! Entertainment Television
-http://iptv.premiumtutv.com/canal_45_eentertainmenttelevision.m3u8
-#EXTINF:-1,Fox Movies HD
-http://iptv.premiumtutv.com/canal_46_foxmovieshd.m3u8
-#EXTINF:-1,AyM Sports
-http://iptv.premiumtutv.com/canal_47_aymsports.m3u8
-#EXTINF:-1,A&E
-http://iptv.premiumtutv.com/canal_48_ae.m3u8
-#EXTINF:-1,Nick Jr
-http://iptv.premiumtutv.com/canal_49_nickjr.m3u8
-#EXTINF:-1,CBeebies
-http://iptv.premiumtutv.com/canal_50_cbeebies.m3u8
-#EXTINF:-1,Boomerang  
-http://iptv.premiumtutv.com/canal_51_boomerang.m3u8
-#EXTINF:-1,Fox Classics
-http://iptv.premiumtutv.com/canal_52_foxclassics.m3u8
-#EXTINF:-1,Fox Cinéma
-http://iptv.premiumtutv.com/canal_53_foxcinma.m3u8
-#EXTINF:-1,Golden
-http://iptv.premiumtutv.com/canal_54_golden.m3u8
-#EXTINF:-1,Studio Universal
-http://iptv.premiumtutv.com/canal_56_studiouniversal.m3u8
-#EXTINF:-1,TCM
-http://iptv.premiumtutv.com/canal_57_tcm.m3u8
-#EXTINF:-1,BBC Entertainment
-http://iptv.premiumtutv.com/canal_58_bbcentertainment.m3u8
-#EXTINF:-1,Comedy Central
-http://iptv.premiumtutv.com/canal_59_comedycentral.m3u8
-#EXTINF:-1,TBS
-http://iptv.premiumtutv.com/canal_60_tbs.m3u8
-#EXTINF:-1,Discovery Civilization
-http://iptv.premiumtutv.com/canal_61_discoverycivilization.m3u8
-#EXTINF:-1,Discovery Science
-http://iptv.premiumtutv.com/canal_62_discoveryscience.m3u8
-#EXTINF:-1,Discovery Turbo
-http://iptv.premiumtutv.com/canal_63_discoveryturbo.m3u8
-#EXTINF:-1,Discovery Theater
-http://iptv.premiumtutv.com/canal_64_discoverytheater.m3u8
-#EXTINF:-1,Investigación Discovery
-http://iptv.premiumtutv.com/canal_65_investigacindiscovery.m3u8
-#EXTINF:-1,Home and Health
-http://iptv.premiumtutv.com/canal_66_homeandhealth.m3u8
-#EXTINF:-1,Glitz  
-http://iptv.premiumtutv.com/canal_67_glitz.m3u8
-#EXTINF:-1,HMX TV
-http://iptv.premiumtutv.com/canal_68_hmxtv.m3u8
-#EXTINF:-1,I.Sat
-http://iptv.premiumtutv.com/canal_69_i.sat.m3u8
-#EXTINF:-1,Nick Toons
-http://iptv.premiumtutv.com/canal_70_nicktoons.m3u8
-#EXTINF:-1,El Gourmet  
-http://iptv.premiumtutv.com/canal_71_elgourmet.m3u8
-#EXTINF:-1,Gala TV
-http://iptv.premiumtutv.com/canal_72_galatv.m3u8
-#EXTINF:-1,TruTV
-http://iptv.premiumtutv.com/canal_73_trutv.m3u8
-#EXTINF:-1,AXN
-http://iptv.premiumtutv.com/canal_74_axn.m3u8
-#EXTINF:-1,Warner  
-http://iptv.premiumtutv.com/canal_76_warner.m3u8
-#EXTINF:-1,Fox Sports 2
-http://iptv.premiumtutv.com/canal_77_foxsports2.m3u8
-#EXTINF:-1,Universal
-http://iptv.premiumtutv.com/canal_78_universal.m3u8
-#EXTINF:-1,The Film Zone
-http://iptv.premiumtutv.com/canal_79_thefilmzone.m3u8
-#EXTINF:-1,Nick
-http://iptv.premiumtutv.com/canal_80_nick.m3u8
-#EXTINF:-1,Space  
-http://iptv.premiumtutv.com/canal_81_space.m3u8
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gz7Eb0B.jpg?tvninjaxd" group-title="Información", HD 08  SD 07
+http://bit.ly/usuario-ninja-00?stream.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gz7Eb0B.jpg?tvninjaxd" group-title="Información", @tvninjaxd-iptv
+http://bit.ly/usuario-ninja-00?stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gz7Eb0B.jpg?tvninjaxd" group-title="Canales Peruanos", Canales Peruanos:
+http://bit.ly/usuario-ninja-01?stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/o1YmHMk.jpg?tvninjaxd" group-title="Canales Peruanos", Latina
+http://bit.ly/usuario-ninja-02?stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8O1a1gk.jpg?tvninjaxd" group-title="Canales Peruanos", GolperuHD
+http://bit.ly/usuario-ninja-03?stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MbcHWNj.jpg?tvninjaxd" group-title="Canales Peruanos", AmericaHD
+http://bit.ly/usuario-ninja-04?stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/h4brVqf.jpg?tvninjaxd" group-title="Canales Peruanos", PanamericanaHD
+http://bit.ly/usuario-ninja-05?stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Um3FpJY.jpg?tvninjaxd" group-title="Canales Peruanos", Tvperu7.3
+http://bit.ly/usuario-ninja-06?stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4UxjHSM.jpg?tvninjaxd" group-title="Canales Peruanos", TvperuHD
+http://bit.ly/usuario-ninja-07?stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4UxjHSM.jpg?tvninjaxd" group-title="Canales Peruanos", CanalN
+http://bit.ly/usuario-ninja-08?stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kqDZURE.jpg?tvninjaxd" group-title="Canales Peruanos", ATVHD
+http://bit.ly/usuario-ninja-09?stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/esSKT1T.jpg?tvninjaxd" group-title="Canales Peruanos", RPP
+http://bit.ly/usuario-ninja-10?stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/esSKT1T.jpg?tvninjaxd" group-title="Canales Peruanos", ATV+
+http://bit.ly/usuario-ninja-11?stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WZndVhM.jpg?tvninjaxd" group-title="Canales Peruanos", RBC
+http://bit.ly/usuario-ninja-12?stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wOtsyJ7.jpg?tvninjaxd" group-title="Canales Peruanos", WillaxHD
+http://bit.ly/usuario-ninja-13?stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/lx045za.jpg?tvninjaxd" group-title="Canales Peruanos", NexTVHD
+http://bit.ly/usuario-ninja-14?stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yGG1gTk.jpg?tvninjaxd" group-title="Canales Peruanos", CapitalTV
+http://bit.ly/usuario-ninja-15?stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/w2d7fb8.jpg?tvninjaxd" group-title="Canales Peruanos", IpeTV
+http://bit.ly/usuario-ninja-16?stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ljImmdc.jpg?tvninjaxd" group-title="Canales Peruanos", MonterricoTVHD
+http://bit.ly/usuario-ninja-17?stream.m3u8
